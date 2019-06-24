@@ -36,6 +36,7 @@ gem 'activeadmin'
 gem 'cancancan'
 gem 'draper'
 gem 'pundit'
+gem 'active_skin'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
