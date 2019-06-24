@@ -37,6 +37,7 @@ gem 'cancancan'
 gem 'draper'
 gem 'pundit'
 gem 'active_skin'
+gem 'paperclip'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
